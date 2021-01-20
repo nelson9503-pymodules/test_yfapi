@@ -1,0 +1,6 @@
+[submodule "yfapi"]
+	path = yfapi
+	url = https://github.com/nelson9503/yfapi.git
+[submodule "iexcloudapi"]
+	path = iexcloudapi
+	url = https://github.com/nelson9503/iexcloudapi.git
